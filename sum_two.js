@@ -1,7 +1,7 @@
 
 
 // Leetcode (Sum two number with target )
-/**
+/*
 
 var twoSum = function(nums, target) {
     let result = [];
