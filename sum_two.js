@@ -1,7 +1,7 @@
 
 
 // Leetcode (Sum two number with target )
-/*
+
 
 var twoSum = function(nums, target) {
     let result = [];
@@ -20,4 +20,4 @@ var twoSum = function(nums, target) {
 
 console.log(twoSum([1,3,4,6],7));  // answer : [0,3] becuse 1 + 6 = 7
 
-*/
+
